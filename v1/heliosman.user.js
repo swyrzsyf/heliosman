@@ -1,23 +1,24 @@
-//==UserScript==
-//@name         heliosman
-//@namespace    https://github.com/swyrzsyf/heliosman
-//@version      1.0
-//@description  汇联易中控增强插件
-//@author       在水一方
-//@homepage     https://github.com/swyrzsyf/heliosman
-//@include      http://*.huilianyi.com/main/*
-//@include      https://*.huilianyi.com/main/*
-//@icon         data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
-//@run-at       document-idle
-//@grant        GM_log
-//@grant        GM_setValue
-//@grant        GM_getValue
-//@grant        GM_deleteValue
-//@grant        GM_xmlhttpRequest
-//@grant        GM_addStyle
-//@grant        GM_setClipboard
-//@grant        GM_addValueChangeListener
-//==/UserScript==
+// ==UserScript==
+// @name            heliosman<汇联易中控增强插件>
+// @namespace       https://github.com/swyrzsyf/heliosman
+// @version         1.0
+// @description     汇联易中控增强插件旨在帮助第三方系统与汇联易集成，将第三方系统集成所需信息快速、便捷的展示给集成开发者。汇联易中控增强插件仅仅处理当前登录账号有权限访问数据并基于汇联易开放接口处理并展示数据。插件运行过程中不收集任何数据。
+// @author          在水一方
+// @license         Apache License 2.0
+// @homepage        https://github.com/swyrzsyf/heliosman
+// @include         http://*.huilianyi.com/main/*
+// @include         https://*.huilianyi.com/main/*
+// @icon            https://github.com/swyrzsyf/heliosman/blob/main/material/heliosman.png
+// @run-at          document-idle
+// @grant           GM_log
+// @grant           GM_setValue
+// @grant           GM_getValue
+// @grant           GM_deleteValue
+// @grant           GM_xmlhttpRequest
+// @grant           GM_addStyle
+// @grant           GM_setClipboard
+// @grant           GM_addValueChangeListener
+// ==/UserScript==
 
 (function() {
     'use strict';
