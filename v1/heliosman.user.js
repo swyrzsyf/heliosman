@@ -4,6 +4,7 @@
 //@version      1.0
 //@description  汇联易增强工具
 //@author       在水一方
+//@homepage     https://github.com/swyrzsyf/heliosman
 //@connect      stage.huilianyi.com
 //@include      http://*.huilianyi.com/main/*
 //@include      https://*.huilianyi.com/main/*
