@@ -2,10 +2,9 @@
 //@name         heliosman
 //@namespace    https://github.com/swyrzsyf/heliosman
 //@version      1.0
-//@description  汇联易增强工具
+//@description  汇联易中控增强插件
 //@author       在水一方
 //@homepage     https://github.com/swyrzsyf/heliosman
-//@connect      stage.huilianyi.com
 //@include      http://*.huilianyi.com/main/*
 //@include      https://*.huilianyi.com/main/*
 //@icon         data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
