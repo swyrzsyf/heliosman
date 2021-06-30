@@ -8,11 +8,11 @@
 ## 安装步骤
 汇联易中控增强插件基于油猴(Tampermonkey)开发，可以运行在任何可以安装油猴的浏览器上，建议使用Chrome，脚本安装步骤以Chrome浏览器为例：
 1. 在Chrome应用商店中搜索"Tampermonkey"并安装油猴应用(需要科学上网，不能科学上网请看步骤2)
-![alt 应用商店安装油猴](https://github.com/swyrzsyf/heliosman/material/m1.jpg)
+![alt 应用商店安装油猴](https://github.com/swyrzsyf/heliosman/blob/main/material/m1.jpg)
 2. 如果不能科学上网，可以访问[油猴官网](https://www.tampermonkey.net/)，选择对应浏览器并下载安装
-![alt 官网安装油猴](https://github.com/swyrzsyf/heliosman/material/m2.png)
+![alt 官网安装油猴](https://github.com/swyrzsyf/heliosman/blob/main/material/m2.png)
 3. 访问[Greasy Fork](https://greasyfork.org/zh-CN)，在Greasy Fork中搜索heliosman并安装
-![alt 安装heliosman](https://github.com/swyrzsyf/heliosman/material/m3.png)
+![alt 安装heliosman](https://github.com/swyrzsyf/heliosman/blob/main/material/m3.png)
 
 ## 功能开发计划
 计划开发功能如下，如有建议增加的功能，你可以发送邮件到swyrzsyf@protonmail.com，我们将认真考虑你建议的功能。
