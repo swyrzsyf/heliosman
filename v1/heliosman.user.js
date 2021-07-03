@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name            heliosman<汇联易中控增强插件>
 // @namespace       https://github.com/swyrzsyf/heliosman
-// @version         1.0
+// @version         1.1
 // @description     汇联易中控增强插件旨在帮助第三方系统与汇联易集成，将第三方系统集成所需信息快速、便捷的展示给集成开发者。汇联易中控增强插件仅仅处理当前登录账号有权限访问数据并基于汇联易开放接口处理并展示数据。插件运行过程中不收集任何数据。
 // @author          在水一方
 // @license         Apache License 2.0
