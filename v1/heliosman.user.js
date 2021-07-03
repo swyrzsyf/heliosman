@@ -8,6 +8,7 @@
 // @homepage        https://github.com/swyrzsyf/heliosman
 // @include         http://*.huilianyi.com/main/*
 // @include         https://*.huilianyi.com/main/*
+// @include         https://*.spendia.jp/main/*
 // @icon            https://github.com/swyrzsyf/heliosman/blob/main/material/heliosman.png
 // @run-at          document-idle
 // @grant           GM_log
